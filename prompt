@@ -1,0 +1,9 @@
+Replace the text content of this HTML with the content of the PDF.
+
+Non-relevant content in this HTML can be replaced with any content in the PDF. But for each section in the HTML, need to keep the same context as in each of the PDF pages.
+
+It is allowed to copy the HTML sections and delete the content that cannot be matched with any section in the PDF.
+
+Do not keep any inner text of the original HTML file. Try to replace them all with the content from the PDF.
+
+Only change the inner text, do not touch the HTML elements and CSS. Give me the whole HTML file content.
